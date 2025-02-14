@@ -1,0 +1,31 @@
+.carousel-image {
+    height: 400px; 
+    object-fit: fill;
+    width: 100%;
+    background-color: #000;
+  }
+
+  .text-label {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    margin: 10px 0;
+  }
+
+    .text-description {
+        font-size: 16px;
+        color: #fff;
+        margin: 10px 0;
+    }
+
+    .carousel-caption {
+        position: absolute;
+        right: 15%;
+        bottom: 0.25rem;
+        left: 15%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        text-align: center;
+        background: black;
+        opacity: 0.6;
+    }

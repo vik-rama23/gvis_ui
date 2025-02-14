@@ -1,0 +1,133 @@
+.notice-board-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .results-section, .notice-board {
+    width: 48%;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+  }
+  
+  
+  .results-section h2, .notice-board h2 {
+    margin-top: 0;
+  }
+  
+  .results-section ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .results-section li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd; /* Optional: Set a border for each result */
+  }
+  
+  .notice-board {
+    height: 200px; /* Adjust the height as needed */
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .notices-wrapper {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    animation: scroll-up 10s linear infinite;
+  }
+  
+  .notice {
+    padding: 10px;
+    border-bottom: 1px solid #ddd; /* Optional: Set a border for each notice */
+  }
+  
+  @keyframes scroll-up {
+    0% {
+      top: 100%;
+    }
+    100% {
+      top: -100%;
+    }
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    max-width: 600px;
+    text-align: center;
+}
+.results-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ddd; 
+    background-color: #fff;
+  }
+  
+  .percentage {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .green {
+    color: green;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  
+  .purple {
+    color: purple;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .notice-board {
+    height: 278px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .notices-wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 100%;
+    animation: scroll-up 13s linear infinite;
+  }
+  
+  .notice {
+    padding: 10px;
+    border-bottom: 1px solid #ddd; 
+  }
+  
+  @keyframes scroll-up {
+    0% {
+      top: 100%;
+    }
+    100% {
+      top: -100%;
+    }
+  }
+
+  .noticeBoard .notiseBoardTitle {
+    max-width: 75%;
+    margin: 0 auto;
+    background: #6db570;
+    clip-path: polygon(0 0, 100% 0, 94% 100%, 6% 100%);
+}

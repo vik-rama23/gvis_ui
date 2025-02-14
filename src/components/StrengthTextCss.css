@@ -1,0 +1,29 @@
+.strength-text {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.strength-text-item {
+   padding: 15px;
+   width: 20%;
+}
+
+#lblNoticeBoard {
+    font-size: 26px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.span-1 {
+    background-color: #4BCDD6;
+}
+.span-2 {
+    background-color: #19AC39;
+}
+.span-3 {
+    background-color: #DF4343;
+}
+.span-4 {
+    background-color: #CDCE1B;
+}
