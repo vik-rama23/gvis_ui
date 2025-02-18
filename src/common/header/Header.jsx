@@ -1,6 +1,7 @@
 import React from 'react';
 import './Header.css';
 import logo from '../../assest/images/gvis-logo.png';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
@@ -8,7 +9,7 @@ const Header = () => {
             <img src={logo} alt='Logo' className="logo" />
             <div>
                 <div className='contact-info'>
-                <span className='contact-info-item'>
+                    <span className='contact-info-item'>
                         Affiliation number: 330400
                     </span>
                     <span className='contact-info-item'>
@@ -23,15 +24,14 @@ const Header = () => {
                 </div>
                 <nav>
                     <ul>
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#academic">Academic</a></li>
-                        <li><a href="#objective">Objective</a></li>
-                        <li><a href="#facilities">Facilities</a></li>
-                        <li><a href="#alumni">Alumni</a></li>
-                        <li><a href="#gallery">Gallery</a></li>
-                        <li><a href="#downloads">Downloads</a></li>
-                        <li><a href="#admission">Admission</a></li>
-                        <li><a href="#contact">Contact Us</a></li>
+                        <li><Link to="/home">Home</Link></li>
+                        <li><Link to="/academic">Academic</Link></li>
+                        <li><Link to="/facilities">Facilities</Link></li>
+                        <li><Link to="/alumni">Alumni</Link></li>
+                        <li><Link to="/gallery">Gallery</Link></li>
+                        <li><Link to="/downloads">Downloads</Link></li>
+                        <li><Link to="/admission">Admission</Link></li>
+                        <li><Link to="/contact">Contact Us</Link></li>
                     </ul>
                 </nav>
             </div>

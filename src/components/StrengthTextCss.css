@@ -7,6 +7,7 @@
 .strength-text-item {
    padding: 15px;
    width: 20%;
+   text-align: center;
 }
 
 #lblNoticeBoard {
