@@ -1,0 +1,66 @@
+/* Footer Base Styles */
+.footer {
+    background: linear-gradient(to right, #3fa3dc, #6cbf3c);
+    color: white;
+    padding: 20px 50px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+/* Footer Section Styles */
+.footer-section {
+    flex: 1;
+    margin: 10px;
+}
+
+.footer-section h3 {
+    border-bottom: 2px solid white;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/* Contact & Links */
+.contact-info-footer p,
+.quick-links a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+
+.quick-links a:hover {
+    text-decoration: underline;
+}
+
+/* Social Icons */
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+/* Location Map */
+.location iframe {
+    width: 100%;
+    max-width: 300px;
+    height: 200px;
+    border: none;
+}
+
+/* Copyright Section */
+.copyright {
+    text-align: center;
+    width: 100%;
+    background: #0b3d91;
+    padding: 10px;
+    font-size: 14px;
+    color: yellow;
+}
