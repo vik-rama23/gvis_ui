@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gvis_ui/home/static/css/main.5f456926.css",
-    "main.js": "/gvis_ui/home/static/js/main.a67bac7e.js",
+    "main.js": "/gvis_ui/home/static/js/main.39a3cac5.js",
     "static/media/image3.png": "/gvis_ui/home/static/media/image3.b8e73c7727f3c3461356.png",
     "static/media/Prospectus_final.pdf": "/gvis_ui/home/static/media/Prospectus_final.bd192cc8752f0b12e000.pdf",
     "static/media/director.png": "/gvis_ui/home/static/media/director.5c5785745308b4049dbd.png",
@@ -15,10 +15,10 @@
     "static/media/gvis-logo.png": "/gvis_ui/home/static/media/gvis-logo.127d60bfd9e518dd53a8.png",
     "index.html": "/gvis_ui/home/index.html",
     "main.5f456926.css.map": "/gvis_ui/home/static/css/main.5f456926.css.map",
-    "main.a67bac7e.js.map": "/gvis_ui/home/static/js/main.a67bac7e.js.map"
+    "main.39a3cac5.js.map": "/gvis_ui/home/static/js/main.39a3cac5.js.map"
   },
   "entrypoints": [
     "static/css/main.5f456926.css",
-    "static/js/main.a67bac7e.js"
+    "static/js/main.39a3cac5.js"
   ]
 }
