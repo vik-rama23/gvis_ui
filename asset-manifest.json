@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/gvis_ui/static/css/main.5f456926.css",
-    "main.js": "/gvis_ui/static/js/main.2f830b96.js",
-    "static/media/image3.png": "/gvis_ui/static/media/image3.b8e73c7727f3c3461356.png",
-    "static/media/Prospectus_final.pdf": "/gvis_ui/static/media/Prospectus_final.bd192cc8752f0b12e000.pdf",
-    "static/media/director.png": "/gvis_ui/static/media/director.5c5785745308b4049dbd.png",
-    "static/media/principal.png": "/gvis_ui/static/media/principal.a15f565711c71398d849.png",
-    "static/media/FIRE_CERTIFICATE.pdf": "/gvis_ui/static/media/FIRE_CERTIFICATE.85726d3447e473cd54e8.pdf",
-    "static/media/ACADEMIC_CALENDAR_24-25.pdf": "/gvis_ui/static/media/ACADEMIC_CALENDAR_24-25.0b23b28942499203103e.pdf",
-    "static/media/image1.jpg": "/gvis_ui/static/media/image1.e35227eefd6c87139fc7.jpg",
-    "static/media/APPENDIX_-_IX.pdf": "/gvis_ui/static/media/APPENDIX_-_IX.33775387892160b5bdfc.pdf",
-    "static/media/image2.jpg": "/gvis_ui/static/media/image2.0c4ec9200e6f87696830.jpg",
-    "static/media/pic1.jpg": "/gvis_ui/static/media/pic1.b67a3c4dd340dd535d81.jpg",
-    "static/media/gvis-logo.png": "/gvis_ui/static/media/gvis-logo.127d60bfd9e518dd53a8.png",
-    "index.html": "/gvis_ui/index.html",
-    "main.5f456926.css.map": "/gvis_ui/static/css/main.5f456926.css.map",
-    "main.2f830b96.js.map": "/gvis_ui/static/js/main.2f830b96.js.map"
+    "main.css": "/gvis_ui/home/static/css/main.5f456926.css",
+    "main.js": "/gvis_ui/home/static/js/main.a67bac7e.js",
+    "static/media/image3.png": "/gvis_ui/home/static/media/image3.b8e73c7727f3c3461356.png",
+    "static/media/Prospectus_final.pdf": "/gvis_ui/home/static/media/Prospectus_final.bd192cc8752f0b12e000.pdf",
+    "static/media/director.png": "/gvis_ui/home/static/media/director.5c5785745308b4049dbd.png",
+    "static/media/principal.png": "/gvis_ui/home/static/media/principal.a15f565711c71398d849.png",
+    "static/media/FIRE_CERTIFICATE.pdf": "/gvis_ui/home/static/media/FIRE_CERTIFICATE.85726d3447e473cd54e8.pdf",
+    "static/media/ACADEMIC_CALENDAR_24-25.pdf": "/gvis_ui/home/static/media/ACADEMIC_CALENDAR_24-25.0b23b28942499203103e.pdf",
+    "static/media/image1.jpg": "/gvis_ui/home/static/media/image1.e35227eefd6c87139fc7.jpg",
+    "static/media/APPENDIX_-_IX.pdf": "/gvis_ui/home/static/media/APPENDIX_-_IX.33775387892160b5bdfc.pdf",
+    "static/media/image2.jpg": "/gvis_ui/home/static/media/image2.0c4ec9200e6f87696830.jpg",
+    "static/media/pic1.jpg": "/gvis_ui/home/static/media/pic1.b67a3c4dd340dd535d81.jpg",
+    "static/media/gvis-logo.png": "/gvis_ui/home/static/media/gvis-logo.127d60bfd9e518dd53a8.png",
+    "index.html": "/gvis_ui/home/index.html",
+    "main.5f456926.css.map": "/gvis_ui/home/static/css/main.5f456926.css.map",
+    "main.a67bac7e.js.map": "/gvis_ui/home/static/js/main.a67bac7e.js.map"
   },
   "entrypoints": [
     "static/css/main.5f456926.css",
-    "static/js/main.2f830b96.js"
+    "static/js/main.a67bac7e.js"
   ]
 }
