@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/gvis_ui/static/css/main.eae159a0.css",
-    "main.js": "/gvis_ui/static/js/main.d6d6eddf.js",
+    "main.css": "/gvis_ui/static/css/main.455a819a.css",
+    "main.js": "/gvis_ui/static/js/main.b2e7faf4.js",
     "static/media/image3.png": "/gvis_ui/static/media/image3.b8e73c7727f3c3461356.png",
+    "static/media/director.png": "/gvis_ui/static/media/director.5c5785745308b4049dbd.png",
+    "static/media/principal.png": "/gvis_ui/static/media/principal.a15f565711c71398d849.png",
     "static/media/image1.jpg": "/gvis_ui/static/media/image1.e35227eefd6c87139fc7.jpg",
     "static/media/image2.jpg": "/gvis_ui/static/media/image2.0c4ec9200e6f87696830.jpg",
+    "static/media/pic1.jpg": "/gvis_ui/static/media/pic1.b67a3c4dd340dd535d81.jpg",
     "static/media/gvis-logo.png": "/gvis_ui/static/media/gvis-logo.127d60bfd9e518dd53a8.png",
     "static/media/logo.svg": "/gvis_ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gvis_ui/index.html",
-    "main.eae159a0.css.map": "/gvis_ui/static/css/main.eae159a0.css.map",
-    "main.d6d6eddf.js.map": "/gvis_ui/static/js/main.d6d6eddf.js.map"
+    "main.455a819a.css.map": "/gvis_ui/static/css/main.455a819a.css.map",
+    "main.b2e7faf4.js.map": "/gvis_ui/static/js/main.b2e7faf4.js.map"
   },
   "entrypoints": [
-    "static/css/main.eae159a0.css",
-    "static/js/main.d6d6eddf.js"
+    "static/css/main.455a819a.css",
+    "static/js/main.b2e7faf4.js"
   ]
 }
