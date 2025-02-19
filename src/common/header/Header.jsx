@@ -25,13 +25,13 @@ const Header = () => {
                 <nav>
                     <ul>
                         <li><Link to="/home">Home</Link></li>
-                        <li><Link to="/academic">Academic</Link></li>
-                        <li><Link to="/facilities">Facilities</Link></li>
-                        <li><Link to="/alumni">Alumni</Link></li>
-                        <li><Link to="/gallery">Gallery</Link></li>
+                        <li><Link to="">Academic</Link></li>
+                        <li><Link to="">Facilities</Link></li>
+                        <li><Link to="">Alumni</Link></li>
+                        <li><Link to="">Gallery</Link></li>
                         <li><Link to="/downloads">Downloads</Link></li>
-                        <li><Link to="/admission">Admission</Link></li>
-                        <li><Link to="/contact">Contact Us</Link></li>
+                        <li><Link to="">Admission</Link></li>
+                        <li><Link to="">Contact Us</Link></li>
                     </ul>
                 </nav>
             </div>
