@@ -8,7 +8,6 @@ import StrengthText from './StrengthText';
 import NoticeBoard from './NoticeBoard/NoticeBoard';
 import StrengthPage from './strength/StrengthPage';
 import MessageToStudent from './MessageToStudent/MessageToStudent';
-import KeyMoments from './keyMoments/keyMoments';
 import Footer from './footer/Footer';
 
 const LandingPage = () => {
