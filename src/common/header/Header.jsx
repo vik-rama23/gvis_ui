@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 import logo from '../../assest/images/gvis-logo.png';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
@@ -24,14 +24,14 @@ const Header = () => {
                 </div>
                 <nav>
                     <ul>
-                        <li><Link to="/home">Home</Link></li>
-                        <li><Link to="">Academic</Link></li>
-                        <li><Link to="">Facilities</Link></li>
-                        <li><Link to="">Alumni</Link></li>
-                        <li><Link to="">Gallery</Link></li>
-                        <li><Link to="/downloads">Downloads</Link></li>
-                        <li><Link to="">Admission</Link></li>
-                        <li><Link to="">Contact Us</Link></li>
+                    <li><NavLink to="/" activeClassName="active">Home</NavLink></li>
+                        <li><NavLink to="/academic" activeClassName="active">Academic</NavLink></li>
+                        <li><NavLink to="/facilities" activeClassName="active">Facilities</NavLink></li>
+                        <li><NavLink to="/alumni" activeClassName="active">Alumni</NavLink></li>
+                        <li><NavLink to="/gallery" activeClassName="active">Gallery</NavLink></li>
+                        <li><NavLink to="/downloads" activeClassName="active">Downloads</NavLink></li>
+                        <li><NavLink to="/admission" activeClassName="active">Admission</NavLink></li>
+                        <li><NavLink to="/about" activeClassName="active">About Us</NavLink></li>
                     </ul>
                 </nav>
             </div>

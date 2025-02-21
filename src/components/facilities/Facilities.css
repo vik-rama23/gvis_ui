@@ -1,0 +1,22 @@
+.facilities-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .facilities-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .facilities-container section {
+    margin-bottom: 40px;
+  }
+  
+  .facilities-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .facilities-container p {
+    margin-bottom: 10px;
+  }

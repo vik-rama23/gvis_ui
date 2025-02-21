@@ -45,8 +45,8 @@ const Downloads = () => {
         className="downloadmodal"
         overlayClassName="overlay"
       >
+        <button onClick={closeModal} className="close-button">×</button>
         <iframe src={previewUrl} title="File Preview" className="preview-iframe"></iframe>
-        <button onClick={closeModal} className="close-button">Close Preview</button>
       </Modal>
     </>
   );
