@@ -8,10 +8,10 @@
     width: 48%;
     background-color: #f9f9f9;
     border: 1px solid #ddd;
-    padding: 16px;
+    padding: 0 16px 16px 16px;
   }
   
-  
+
   .results-section h2, .notice-board h2 {
     margin-top: 0;
   }
@@ -126,7 +126,14 @@
     }
   }
 
-  .noticeBoard .notiseBoardTitle {
+  .noticeBoard {
+    z-index: 9999999999;
+    position: relative;
+    overflow: hidden;
+    background: transparent;
+  }
+
+ .notiseBoardTitle {
     max-width: 75%;
     margin: 0 auto;
     background: #6db570;

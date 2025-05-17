@@ -12,7 +12,7 @@ const AboutUs = () => {
           Primary, Primary, Secondary and Senior Secondary Education, which is groomed under the guidance
           and command of leading educationists and professionals from all over the country.
           <strong>Green Valley International School</strong> focuses on cultivating a school of Leadership of Thought & Action
-          with impetus on Leadership Education w i t h Efficiency, Discipline and Skill.</p>
+          with impetus on Leadership Education with Efficiency, Discipline and Skill.</p>
 
         <section className="mission">
           <h2>Our Mission</h2>
